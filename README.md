@@ -17,6 +17,8 @@
 <p>
   <img src="https://img.shields.io/badge/Manual%20Testing-FFA500?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+   https://img.shields.io/github/v/tag/:user/:repo
+
 </p>
 
 ### **Web & Database:**
