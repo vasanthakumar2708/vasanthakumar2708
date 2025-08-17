@@ -1,5 +1,5 @@
-# 💫 About Me:
-- 🎓 Currently a Student passionate about **Software Testing & Development**.  <br>- 🔍 Skilled in **Manual Testing** and experienced with **JIRA** for bug tracking.    <br>- 🤝 Looking to collaborate on **Testing & Development Projects**. 
+#  About Me:
+-  Currently a Student passionate about **Java Development & Software Testing **.  <br>-  Skilled in Backend development and experienced with Springboot <br>- Skilled in **Manual Testing** and experienced with **JIRA** for bug tracking.    <br>-  Looking to collaborate on **Testing & Java Development Projects**. 
 
 
 ## 🌐 Socials:
@@ -12,4 +12,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vasanthakumar2708&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthakumar2708&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
