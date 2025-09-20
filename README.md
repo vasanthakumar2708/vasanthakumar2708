@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vasanthakumar</h1>
 <h3 align="center">A passionate student with learning java and testing</h3>
+👋 About Me
+
+🎓 Currently a student passionate about Java Development and Software Testing
+
+💻 Skilled in Backend Development with hands-on experience using Spring Boot
+
+🧪 Proficient in Manual Testing and experienced with JIRA for bug tracking
+
+🔄 Good understanding of Software Development Life Cycle (SDLC) and testing processes
+
+📊 Strong foundation in Data Structures and Algorithms (DSA)
+
+🤝 Open to collaborating on Testing and Java Development Projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
