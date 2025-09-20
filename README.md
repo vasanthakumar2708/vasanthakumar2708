@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasanthakumar</h1>
-<h3 align="center">A passionate student with learning java and testing</h3>
+
 👋 About Me
 
 🎓 Currently a student passionate about Java Development and Software Testing
