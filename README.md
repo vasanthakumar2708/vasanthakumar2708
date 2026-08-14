@@ -2,7 +2,7 @@
 
 👋 About Me
 
-🎓 Currently a student passionate about Java Development and Software Testing
+🎓 An engineer who is passionate about learning, contribute and work 
 
 💻 Skilled in Backend Development with hands-on experience using Spring Boot
 
